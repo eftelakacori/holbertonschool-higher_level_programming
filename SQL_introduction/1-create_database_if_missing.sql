@@ -1,1 +1,2 @@
-CREATE DATABASE IF NOT EXISTS hbtn_0c_0;
+-- Create databases of the MySQL server.
+CREATE DATABASE hbtn_0c_0;
